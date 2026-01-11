@@ -1,0 +1,45 @@
+{
+    "ciudad": "La Habana",
+    "productos": [
+        {
+        "variedad": "Frijoles",
+        "unidad_medida": "lb",
+        "precio_min": 317.5,
+        "precio_max": 425.00
+        },
+        {
+        "variedad": "Aceite a granel",
+        "unidad_medida": "lb",
+        "precio_min": 500.00,
+        "precio_max": 500.00
+        },
+        {
+        "variedad": "Arroz",
+        "unidad_medida": "lb",
+        "precio_min": 270.00,
+        "precio_max": 331.81
+        },
+        {
+        "variedad": "Café molido",
+        "unidad_medida": "oz",
+        "cantidad": 4,
+        "precio_min": null,
+        "precio_max": null
+        },
+        {
+        "variedad": "Huevos",
+        "unidad_medida": "unidad",
+        "cantidad": 30,
+        "precio_min": 2599.8,
+        "precio_max": 3000.00
+        },
+        {
+        "variedad": "Leche en polvo",
+        "unidad_medida": "kg",
+        "precio_min": 1673.92,
+        "precio_max": 2608.7
+        }
+    ],
+    "moneda": "CUP",
+    "fuente": "Tabla de precios mínimos y máximos de variedades seleccionadas por territorios. ONEI"
+}

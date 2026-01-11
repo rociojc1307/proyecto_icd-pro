@@ -1,0 +1,24 @@
+{
+    "seguimiento_arroz": [
+        { 
+            "Mipymes":[
+                {
+                    "id": "",
+                    "nombre": "",
+                    "registros":[
+                        {
+                        "marca": "",
+                        "presentacion": "",
+                        "cantidad": "",
+                        "unidad_medida": "",
+                        "origen": "",
+                        "precio": "",
+                        "fecha": ""
+                        }
+                    ],
+                    "disponibilidad": ""
+                }
+            ] 
+        }           
+    ]
+}

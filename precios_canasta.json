@@ -1,0 +1,75 @@
+{
+    "productos": [
+    {
+        "nombre": "Arroz",
+        "unidad_medida": "lb",
+        "precio": 10.00
+    },
+    {
+        "nombre": "Frijoles",
+        "unidad_medida": "lb",
+        "precio": 16.00
+    },
+    {
+        "nombre": "Aceite",
+        "unidad_medida": "lb",
+        "precio": 18.00
+    },
+    {
+        "nombre": "Azúcar",
+        "unidad_medida": "lb",
+        "precio": 6.00
+    },
+    {
+        "nombre": "Café",
+        "unidad_medida": "oz",
+        "cantidad": 4,
+        "precio": 11.00
+    },
+    {
+        "nombre": "Sal",
+        "unidad_medida": "kg",
+        "precio": 7.00
+    },
+    {
+        "nombre": "Leche en polvo (normada y dieta médica)",
+        "unidad_medida": "kg",
+        "precio": 2.50
+    },
+    {
+        "nombre": "Compota",
+        "unidad_medida": "mL",
+        "cantidad": 200,
+        "precio": 0.30
+    },
+    {
+        "nombre": "Pollo",
+        "unidad_medida": "lb",
+        "precio": 20.00
+    },
+    {
+        "nombre": "Pasta dental",
+        "unidad_medida": "mL",
+        "cantidad": 85,
+        "precio": 8.00
+    },
+    {
+        "nombre": "Jabón de tocador",
+        "unidad_medida": "g",
+        "cantidad": 115,
+        "precio": 9.00
+    },
+    {
+        "nombre": "Jabón de lavar",
+        "unidad_medida": "g",
+        "cantidad": 180,
+        "precio": 10.00
+    },
+    {
+        "nombre": "Detergente",
+        "unidad_medida": "kg",
+        "precio": 25.00
+    }
+    ],
+    "fuentes": "PRECIOS ESTABLECIDOS para productos de la canasta familiar normada (Acuerdo 8957/2020. Consejo de Ministros). Resolución: 346/2020. Datos obtenidos del Mincin y Unidad Básica de Comercio, Plaza de la Revolución."
+}
