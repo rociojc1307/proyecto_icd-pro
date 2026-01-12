@@ -1,0 +1,106 @@
+{
+    "Mipymes": [
+        {
+        "id": "",
+        "nombre": "",
+        "ubicacion": {
+            "consejo_popular": "",
+            "direccion": "",
+            "latitud": "",
+            "longitud": ""
+        },
+        "horarios": {
+            "dias_apertura": [],
+            "hora_apertura": "",
+            "hora_cierre": "",
+            "dias_cierre": ""
+        },
+        "domicilio": "",
+        "contacto": "",
+        "redes_sociales": {
+            "instagram": {
+                "usuario": "",
+                "seguidores": "",
+                "fecha": ""
+            },
+            "facebook": {
+                "pagina": "",
+                "seguidores": "",
+                "fecha": ""
+            }
+        },
+        "sitio_web": "",
+        "moneda": "CUP",
+        "productos": [
+            {
+            "id": "",
+            "nombre": "",
+            "marca": "",
+            "categoria": "",
+            "presentacion": "",
+            "cantidad": "",
+            "unidad_medida": "",
+            "origen": "",
+            "precio": "",
+            "fecha": ""
+            }
+        ]
+        }
+    ],
+    "Tiendas_en_USD": [
+        {
+        "id": "",
+        "nombre": "",
+        "ubicacion": {
+            "consejo_popular": "",
+            "direccion": "",
+            "latitud": "",
+            "longitud": ""
+        },
+        "cadena": "",
+        "moneda": "USD",
+        "productos": [
+            {
+            "id": "",
+            "nombre": "",
+            "marca": "",
+            "categoria": "",
+            "presentacion": "",
+            "cantidad": "",
+            "unidad_medida": "",
+            "origen": "",
+            "precio": "",
+            "fecha": ""
+            }
+        ]
+        }
+    ],
+    "Tiendas_en_MLC": [
+        {
+        "id": "",
+        "nombre": "",
+        "ubicacion": {
+            "consejo_popular": "",
+            "direccion": "",
+            "latitud": "",
+            "longitud": ""
+        },
+        "cadena": "",
+        "moneda": "MLC",
+        "productos": [
+            {
+            "id": "",
+            "nombre": "",
+            "marca": "",
+            "categoria": "",
+            "presentacion": "",
+            "cantidad": "",
+            "unidad_medida": "",
+            "origen": "",
+            "precio": "",
+            "fecha": ""
+            }
+        ]
+        }
+    ]
+}
