@@ -5,9 +5,9 @@ Con este proyecto buscamos centrarnos en la notoria pobreza en la que se vive en
 El proceso de recopilación de los datos llevó varias etapas, pues tuve que agregar algunos productos estratégicos por ser necesarios para los adultos mayores. Toda la evidencia de los precios se encuentra en el repositorio. Está dividida por carpetas y el nombre de cada una coincide con el id de las mipymes. Lo mismo sucede con las tiendas en USD y MLC. 
 
 Mediante una carta de solicitud de información a varias instituciones, como la ONEI provincial y el Ministerio de Trabajo y Seguridad Social, firmada por la decana de la facultad, pudimos acceder a datos útiles:
-● La población del municipio elegido por grupos etarios
-● Cantidad de jubilados, asistenciados
-● Jubilacion y pensión mínimas 
+  ● La población del municipio elegido por grupos etarios
+  ● Cantidad de jubilados, asistenciados
+  ● Jubilacion y pensión mínimas 
 
 Al visitar la bodega donde compro la canasta normada de mi hogar, pude solicitar los precios y cantidades de los productos que allí se comercializan.
 
