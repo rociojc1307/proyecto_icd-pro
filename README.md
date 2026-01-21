@@ -1,4 +1,4 @@
-<img width="1556" height="699" alt="image" src="https://github.com/user-attachments/assets/279b2b78-28ce-41a9-9c6e-4daab155da23" /># proyecto_icd-pro
+# proyecto_icd-pro
 Informe:
 Título: "La odisea de los más vulnerables"
 Asignaturas: Introducción a la Ciencia de Datos e Introducción a la Programación 
