@@ -13,11 +13,11 @@ Con el propósito de analizar el comportamiento de los precios de diversos artí
 
 Método:
 El universo del estudio estuvo constituido por:
-``-> 30 mipymes
-``-> 4 tiendas en dólares:
-````- 1 perteneciente a TRD
-````- 3 pertenecientes a CIMEX
-````- 1 tienda en MLC perteneciente a Panamericana
+  -> 30 mipymes  
+  -> 4 tiendas en dólares:  
+    - 1 perteneciente a TRD
+    - 3 pertenecientes a CIMEX
+    - 1 tienda en MLC perteneciente a Panamericana
     
 Técnicas y procedimientos:
   -> Obtención de los datos:
