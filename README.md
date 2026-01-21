@@ -11,13 +11,13 @@ La decadencia de la economía cubana es cada vez más notable y el pueblo la suf
 Por tal motivo, nos preguntamos cuánto se tendría que invertir para suplir el déficit de los productos que conforman la canasta familiar normada y otros que se pudieran necesitar.
 Con el propósito de analizar el comportamiento de los precios de diversos artículos en mipymes, tiendas en dólares (USD) y en moneda libremente convertible (MLC) ubicadas en Plaza de la Revolución, se realizó el presente estudio en el período comprendido desde el 30 de octubre hasta el 8 de diciembre del 2025, para ver cómo influyen los mismos en el nivel adquisitivo del sector más vulnerable (jubilados y asistenciados) en el municipio que posee la población más envejecida de la capital.
 
-Método:
-El universo del estudio estuvo constituido por:
+Método:  
+El universo del estudio estuvo constituido por:  
   -> 30 mipymes  
   -> 4 tiendas en dólares:  
-    - 1 perteneciente a TRD
-    - 3 pertenecientes a CIMEX
-    - 1 tienda en MLC perteneciente a Panamericana
+    - 1 perteneciente a TRD  
+    - 3 pertenecientes a CIMEX  
+    - 1 tienda en MLC perteneciente a Panamericana  
     
 Técnicas y procedimientos:
   -> Obtención de los datos:
